@@ -1,0 +1,19 @@
+Folder PATH listing for volume Windows
+Volume serial number is 8D78-F8E8
+C:.
+|   Cancelling a job before executing another.png
+|   combined_notebook.py
+|   Execute all notebooks with a pipeline.png
+|   Extracted Json data.png
+|   structure.txt
+|   
++---Bronze
+|       Bronze Notebook.ipynb
+|       Bronze_notebook Spark execution.png
+|       
++---Gold
+|       Gold Notebook.ipynb
+|       
+\---Silver
+        Silver Notebook.ipynb
+        
