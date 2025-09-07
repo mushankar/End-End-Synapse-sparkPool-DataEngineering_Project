@@ -59,7 +59,7 @@ graph TD
     B --> C[🥈 Silver Layer: Data Cleaning & Transformation]
     C --> D[🥇 Gold Layer: Enrichment & Aggregation]
     D --> E[📊 Analytics & Reporting]
-
+```
 ## 🥉 Bronze Layer (Raw Data Ingestion)
 
 **Goal:** Ingest raw earthquake data (JSON) from the **USGS API** and store it in the Bronze layer (**ADLS Gen2**).
